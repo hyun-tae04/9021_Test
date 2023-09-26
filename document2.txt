@@ -1,5 +1,6 @@
 // C program for Merge Sort
-My name is 
+
+Hi hello My name is 
 #include <stdio.h>
 #include <stdlib.h>
 
